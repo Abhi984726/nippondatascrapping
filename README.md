@@ -1,4 +1,4 @@
-# Nippon Data Scrapping
+# Automated ETF Data Extraction from Nippon India
 
 A Python-based project for scraping data from Nippon sources and storing it in an Excel file. The project is aimed at automating the process of data extraction and storage. 
 In this project I have used VBA code to invoke the python code. 
